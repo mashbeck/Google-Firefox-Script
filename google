@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ firefox -private http://www.google.com/search?q="${*:1}" &
